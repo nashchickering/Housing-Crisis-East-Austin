@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "nashchickering",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207738466?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "nashchickering",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-02T01:07:21.156Z",
-    "updated_at": "2025-05-02T01:07:21.156Z"
-  }
+    "updated_at": "2025-05-02T01:07:21.156Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "b9c7d1e0-1d2c-4fa2-a18a-a4f56894a7a4": {
+      "content": [],
+      "created_at": "2025-05-02T01:07:21.175Z",
+      "created_by": "nashchickering",
+      "title": "Housing Crisis in East Austin",
+      "updated_at": "2025-05-02T01:07:21.175Z",
+      "updated_by": "nashchickering",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b9c7d1e0-1d2c-4fa2-a18a-a4f56894a7a4"
+  ]
 }
