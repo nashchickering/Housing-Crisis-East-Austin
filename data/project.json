@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "nashchickering",
+    "is_private": false,
+    "title": "Housing Crisis in East Austin",
+    "description": "My project digs deep into the housing crisis in East Austin. Host Nash Chickering talks about how we can resolve this issue and how citizens can flourish again.",
+    "language": "en",
+    "slug": "Housing-Crisis-East-Austin",
+    "creator": "nashchickering",
+    "authors": "Nash Chickering",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-02T01:07:21.156Z",
+    "updated_at": "2025-05-02T01:07:21.156Z"
   }
 }
