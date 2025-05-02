@@ -1,5 +1,334 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nash Chickering here with a hot topic for you today that will get your mind spinning.\n\nLet’s start with a place: East Austin, Texas. Once a strong, culturally rich neighborhood for Black and Latino communities, it’s now a hotspot for trendy coffee shops, luxury condos, and rising property values. That might sound like “progress,” but the truth is, this kind of rapid change—called gentrification—is displacing the people who built East Austin’s identity.\n\nHomes are getting more expensive. Families who’ve lived there for generations are being priced out. And it’s not just about buildings—it’s about people losing their churches, their schools, their community ties. And all of this is happening fast.\n\nSo what do we do? What’s a better way forward?\n\nOne answer is something called a Community Land Trust, or CLT for short. It’s a community-first housing model that protects affordability—not just for a few years, but for generations.\n\nHere’s how it works: Instead of buying a home and the land beneath it, CLT homeowners buy just the home. The land stays in the trust, which is run by a nonprofit. That keeps the purchase price low and locks in affordability, so when the home is resold, it stays affordable. It’s a way to build stability, not speculation.\n\nThis is totally different from the usual housing fixes. A lot of current policies give developers tax breaks to include a few “affordable” units—but only for a set number of years. Then those homes go back to market rate. So it’s like putting a band-aid on a broken system.\n\nCLTs, on the other hand, keep homes affordable permanently. And they’re built around community control. Most have boards made up of residents, neighbors, and local leaders—so people who actually live there get a say in what happens to their neighborhood.\n\nThat’s especially important in a place like East Austin, where residents have often been left out of city planning decisions. CLTs give the power back to the people who are usually pushed out.\n\nAnd this idea isn’t just a fantasy—it’s already working. In cities like New York, Burlington, and even right here in Austin, CLTs are proving that you can protect communities without depending on the ups and downs of the market. The Guadalupe Neighborhood Development Corporation has already launched a CLT in East Austin, preserving homes and honoring the area’s cultural history.\n\nNow, some folks argue CLTs take too long to scale up, or that land in Austin is too expensive. But here’s the thing: the City of Austin owns unused land. That land could be transferred to CLTs for low or no cost. And there are grants and partnerships available to help cover the rest. It’s not a matter of possibility—it’s a matter of political will.\n\nOthers say CLTs mess with market efficiency. But housing should be about people, not just profit. If the current market was working, we wouldn’t have so many families being pushed out of their homes.\n\nWhat CLTs do is offer an alternative. They don’t replace private development—they work alongside it to ensure there’s space for everyone. It’s about balance. It’s about fairness.\n\nTo make this happen in a real, lasting way, we need action from city leaders. That means identifying land for CLTs, offering funding and support, updating policies, and educating communities about how these trusts work. Groups like the Austin Housing Coalition are already in place to help—it’s time to give them the tools they need.\n\nAt the end of the day, this isn’t just about housing. It’s about justice. It’s about acknowledging the harm that’s been done and choosing a different path forward.\n\nCLTs offer that path—a future where East Austin doesn’t just survive gentrification, but pushes back against it with something stronger: community.\n\nThank you, and see you next time!\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone of Voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "a3b3475a-6f12-4ec8-a414-c8eb5725df21"
+    },
+    {
+      "start_time": 29,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Homes are getting more expensive and long-term residents are being kicked out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        }
+      ],
+      "uuid": "1335ff8c-8959-4091-8420-41a8da12caea"
+    },
+    {
+      "start_time": 35,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's not just about buildings but about jobs, churches, and communities too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "1fd0d905-eae7-47cf-a52b-4a93acb72864"
+    },
+    {
+      "start_time": 60,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explanation of how and why a CLT will work"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "57de1c5a-c3dd-4ed3-abe0-fd4f4bde090f"
+    },
+    {
+      "start_time": 135,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examples of where CLT's have worked before"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        }
+      ],
+      "uuid": "b9b11cc1-ba48-4372-b3fe-b92128d6d886"
+    },
+    {
+      "start_time": 149,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Example of a CLT already in Austin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Background"
+        }
+      ],
+      "uuid": "3b49ff11-262b-4a9e-86b1-9bff7397f659"
+    },
+    {
+      "start_time": 180,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The possibility of a CLT is in the hands of the city"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone of Voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians"
+        }
+      ],
+      "uuid": "821f2738-9ea3-4d18-878c-56eb1aed750e"
+    },
+    {
+      "start_time": 187,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Housing is about the people of Austin not just money purposes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "3492b56c-3ed3-4f75-90db-f14b0ecdf377"
+    },
+    {
+      "start_time": 198,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From a logistical and equality standpoint, CLT's are the solution"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        }
+      ],
+      "uuid": "0bd33e62-1ac3-442a-8a5e-bed5e7c7dc72"
+    },
+    {
+      "start_time": 209,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CLT's are like a group project, everyone needs to chip in their fair share"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "de576605-1735-48b6-9b40-826ff7fb9291"
+    },
+    {
+      "start_time": 233,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is about justice for the residents of Austin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        }
+      ],
+      "uuid": "826b82b7-129a-4e24-a576-a18063a72ddc"
+    },
+    {
+      "start_time": 242,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In order to see true growth the city needs to come together with strength"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "607007fb-25a5-4a8d-a269-eb60a4b26df4"
+    }
+  ],
   "set": "Default",
   "event_id": "0aa401af-eef5-4a6b-aea2-77745f26d03c",
   "source_id": "5bd48409-56e2-4cbe-80ef-dad36809d278"
